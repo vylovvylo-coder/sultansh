@@ -1,0 +1,6 @@
+{
+  "name": "متجر السوبر الذكي - Smart E-Commerce Pro",
+  "description": "منصة متكاملة لإدارة المتاجر الإلكترونية مع الذكاء الاصطناعي، لوحة تحكم السوبر أدمين، إدارة الموظفين والصلاحيات، أدوات الدفع، وتوليد الصور والفيديوهات للمنتجات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
